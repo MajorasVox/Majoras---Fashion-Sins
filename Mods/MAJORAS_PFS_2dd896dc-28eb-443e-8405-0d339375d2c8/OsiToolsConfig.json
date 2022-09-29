@@ -1,0 +1,9 @@
+{
+  "RequiredExtensionVersion": 51,
+  "ModTable": "MAJORAS_PFS",
+  "FeatureFlags": [
+    "OsirisExtensions",
+    "Lua",
+    "Preprocessor"
+  ]
+}

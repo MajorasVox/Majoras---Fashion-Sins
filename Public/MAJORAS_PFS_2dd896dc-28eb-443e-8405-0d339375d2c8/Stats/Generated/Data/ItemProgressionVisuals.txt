@@ -1,0 +1,899 @@
+new itemgroup "Maj_WPN_Buster_Sword_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "0e5b658c-8488-4cac-8aef-7eb43b489a05",""
+add namegroup "Maj_WPN_Buster_Sword_2H","",""
+
+new itemgroup "Maj_WPN_The_Maelstrom_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "103a3ebe-4b35-4cb1-a8e7-a6616af29e51",""
+add namegroup "Maj_WPN_The_Maelstrom_1H","",""
+
+new itemgroup "Maj_WPN_FFX2_Thief_Dagger_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "50ed2069-1616-42a6-bd01-dfd3d94ea88b",""
+add namegroup "Maj_WPN_The_Maelstrom_1H","",""
+
+new itemgroup "Maj_WPN_Lion_Shield_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "10e42452-ba41-4da7-adaa-8996d62ac9cc",""
+add namegroup "Maj_WPN_Lion_Shield_1H","",""
+
+new itemgroup "Maj_WPN_TESO_Madness_Shield_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "c81212b7-86e4-44a9-ba1d-06d1fb3ed058",""
+add namegroup "Maj_WPN_TESO_Madness_Shield_1H","",""
+
+new itemgroup "Maj_WPN_2H_Staff_SMITE_Aphrodite_Staff"
+
+add levelgroup 0,0,"All"
+add rootgroup "a8d46089-7054-453a-9f4c-d3a4f82cc7ba",""
+add namegroup "Maj_WPN_2H_Staff_SMITE_Aphrodite_Staff","",""
+
+new itemgroup "Maj_WPN_2H_Sword_Fable_Avos_Tear"
+
+add levelgroup 0,0,"All"
+add rootgroup "cdad3198-850f-4974-a504-f97c0c29afd3",""
+add namegroup "Maj_WPN_2H_Sword_Fable_Avos_Tear","",""
+
+new itemgroup "Maj_WPN_Azi_Dahaka_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "fc1f80c3-67b7-44f7-834e-619bb167ba6e",""
+add namegroup "Maj_WPN_Azi_Dahaka_1H","",""
+
+new itemgroup "Maj_WPN_BanditKing_Greathammer_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "fae2c8bb-4a3f-49e0-977e-e22903cb3506",""
+add namegroup "Maj_WPN_BanditKing_Greathammer_2H","",""
+
+new itemgroup "Maj_WPN_BanditKing_Greatsword_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "d5c4b94a-81e4-4d1f-8d1f-2a5ea5fecc6e",""
+add namegroup "Maj_WPN_BanditKing_Greatsword_2H","",""
+
+new itemgroup "Maj_WPN_BanditKing_Hammer_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "00440881-23df-455a-94f2-0f475c47aadb",""
+add namegroup "Maj_WPN_BanditKing_Hammer_1H","",""
+
+new itemgroup "Maj_WPN_BanditKing_Sword_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "653b02ef-4db5-47b6-9db3-157c39669bd8",""
+add namegroup "Maj_WPN_BanditKing_Sword_1H","",""
+
+new itemgroup "Maj_WPN_Bifrost_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "36f43fad-99da-4b80-866e-48a7ea8f6471",""
+add namegroup "Maj_WPN_Bifrost_1H","",""
+
+new itemgroup "Maj_WPN_Buer_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "be972b1c-d74f-4bd4-a437-8a90abda5ce0",""
+add namegroup "Maj_WPN_Buer_1H","",""
+
+new itemgroup "Maj_WPN_Cutlass_Bluetane_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "510c9afc-0fa7-4a32-8da2-304210e69082",""
+add namegroup "Maj_WPN_Cutlass_Bluetane_1H","",""
+
+new itemgroup "Maj_WPN_Denryu_Bakuha_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "c5c4497d-fc48-4881-88d9-157044b0ab8b",""
+add namegroup "Maj_WPN_Denryu_Bakuha_2H","",""
+
+new itemgroup "Maj_WPN_Dollmasters_Mace_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "e099002d-f29f-41a1-b686-1959d5c6e992",""
+add namegroup "Maj_WPN_Dollmasters_Mace_1H","",""
+
+new itemgroup "Maj_WPN_Eiserne_Drossel_1_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "6c17353b-27cc-42fa-9bb8-080fb56efc77",""
+add namegroup "Maj_WPN_Eiserne_Drossel_1_1H","",""
+
+new itemgroup "Maj_WPN_Eiserne_Drossel_2_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "1ab497b6-a73c-4957-ba41-4fbf1e3afdb8",""
+add namegroup "Maj_WPN_Eiserne_Drossel_2_1H","",""
+
+new itemgroup "Maj_WPN_Enma_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "b6e0c9e1-a822-4454-a6d9-e755a591ae1d",""
+add namegroup "Maj_WPN_Enma_1H","",""
+
+new itemgroup "Maj_WPN_Frostmourne_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "c4d6bf9f-d365-4cb6-9b68-8927a285de8c",""
+add namegroup "Maj_WPN_Frostmourne_1H","",""
+
+new itemgroup "Maj_WPN_Lights_Vengeance_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "126e0ead-333b-4cdd-934d-0b7b10c4f134",""
+add namegroup "Maj_WPN_Lights_Vengeance_2H","",""
+
+new itemgroup "Maj_WPN_Lion_Axe_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "cab12355-5a4d-41d8-b184-a1e335744e8c",""
+add namegroup "Maj_WPN_Lion_Axe_1H","",""
+
+new itemgroup "Maj_WPN_Sandai_Kitetsu_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "10e05af1-3204-4bc4-a78e-64014b2eb08d",""
+add namegroup "Maj_WPN_Sandai_Kitetsu_1H","",""
+
+new itemgroup "Maj_WPN_Soul_Edge_V4_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "d7c27fd3-26a6-4ae9-9d23-caf3395e8dfd",""
+add namegroup "Maj_WPN_Soul_Edge_V4_2H","",""
+
+new itemgroup "Maj_WPN_Soul_Edge_V5_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "8b864497-554d-40bb-8583-b8fe5cd36d78",""
+add namegroup "Maj_WPN_Soul_Edge_V5_2H","",""
+
+new itemgroup "Maj_WPN_Staff_of_Ainz_Ooal_Gown_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "7544015c-7b0b-49e4-9528-0fc8c8852477",""
+add namegroup "Maj_WPN_Staff_of_Ainz_Ooal_Gown_2H","",""
+
+new itemgroup "Maj_WPN_Steel_On_Steel_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "76286b08-8f25-4835-94bd-3bc58448a3cb",""
+add namegroup "Maj_WPN_Steel_On_Steel_1H","",""
+
+new itemgroup "Maj_WPN_Susanoo_Sword_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "6607f94e-bc67-48c7-bab3-875dbd885ebb",""
+add namegroup "Maj_WPN_Susanoo_Sword_2H","",""
+
+new itemgroup "Maj_WPN_Sword_of_Aeons_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "f26c85d3-b9c9-42dc-b3d6-a73d844e8596",""
+add namegroup "Maj_WPN_Sword_of_Aeons_2H","",""
+
+new itemgroup "Maj_WPN_The_Soul_Reaver_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "78d5a07e-8798-427e-a4a7-1ffe048e14de",""
+add namegroup "Maj_WPN_The_Soul_Reaver_2H","",""
+
+new itemgroup "Maj_WPN_Vimana_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "fa420951-2a81-4778-af23-602f9edcada4",""
+add namegroup "Maj_WPN_Vimana_1H","",""
+
+new itemgroup "Maj_WPN_Wado_Ichimonji_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "bb01ddde-edb1-46bc-8fce-d43a642242f8",""
+add namegroup "Maj_WPN_Wado_Ichimonji_1H","",""
+
+new itemgroup "Maj_EQ_Jack_of_Blades_Armor"
+
+add levelgroup 0,0,"All"
+add rootgroup "f6b89aaa-231a-4d92-973a-3d8a1e8782ec",""
+add namegroup "Maj_EQ_Jack_of_Blades_Armor","",""
+
+new itemgroup "Maj_EQ_Thunder_Armor"
+
+add levelgroup 0,0,"All"
+add rootgroup "10db7482-9c85-4696-bb72-de9a90c2123d",""
+add namegroup "Maj_EQ_Thunder_Armor","",""
+
+new itemgroup "Maj_EQ_Thunder_Helmet"
+
+add levelgroup 0,0,"All"
+add rootgroup "63b9cdf9-59d7-43ed-815f-6c083af034ca",""
+add namegroup "Maj_EQ_Thunder_Helmet","",""
+
+new itemgroup "Maj_EQ_Avatar_Cloud_Strife"
+
+add levelgroup 0,0,"All"
+add rootgroup "4fbb9b7c-c46c-4fcd-b032-7cbf7a0cc3e4",""
+add namegroup "Maj_EQ_Avatar_Cloud_Strife","",""
+
+new itemgroup "Maj_EQ_Avatar_Kefka_God_Form"
+
+add levelgroup 0,0,"All"
+add rootgroup "73b77e33-0609-4da9-b8c7-470c26006a0e",""
+add namegroup "Maj_EQ_Avatar_Kefka_God_Form","",""
+
+new itemgroup "Maj_EQ_Avatar_Kefka_Palazzo"
+
+add levelgroup 0,0,"All"
+add rootgroup "889cbe8b-b02a-483f-9f26-37cff0d5f058",""
+add namegroup "Maj_EQ_Avatar_Kefka_Palazzo","",""
+
+new itemgroup "Maj_EQ_Avatar_Rikku"
+
+add levelgroup 0,0,"All"
+add rootgroup "21c9d215-bb92-43fb-bbd1-cac0ac688464",""
+add namegroup "Maj_EQ_Avatar_Rikku","",""
+
+new itemgroup "Maj_EQ_Avatar_Tifa_Lockhart"
+
+add levelgroup 0,0,"All"
+add rootgroup "9f6b5de6-b910-4984-b2a7-9eb1f67b9e60",""
+add namegroup "Maj_EQ_Avatar_Tifa_Lockhart","",""
+
+new itemgroup "Maj_EQ_SOLDIER_Uniform"
+
+add levelgroup 0,0,"All"
+add rootgroup "accfee20-60ad-4076-a635-c8d6955a3824",""
+add namegroup "Maj_EQ_SOLDIER_Uniform","",""
+
+new itemgroup "Maj_EQ_Tifa_Leather_Gloves"
+
+add levelgroup 0,0,"All"
+add rootgroup "177cda63-0181-48b0-9d7b-9c6489442c36",""
+add namegroup "Maj_EQ_Tifa_Leather_Gloves","",""
+
+new itemgroup "Maj_EQ_Tifa_Metal_Knuckles"
+
+add levelgroup 0,0,"All"
+add rootgroup "53f051d5-c4e0-4d05-80ba-9f1e1192c96f",""
+add namegroup "Maj_EQ_Tifa_Metal_Knuckles","",""
+
+new itemgroup "Maj_EQ_Tifa_Mythril_Claws"
+
+add levelgroup 0,0,"All"
+add rootgroup "0dbb75c2-cf9d-488a-b0d1-edf0a325b218",""
+add namegroup "Maj_EQ_Tifa_Mythril_Claws","",""
+
+new itemgroup "Maj_EQ_Tifa_Platinum_Fists"
+
+add levelgroup 0,0,"All"
+add rootgroup "390493d9-03bf-4eff-bacd-486a21e438a5",""
+add namegroup "Maj_EQ_Tifa_Platinum_Fists","",""
+
+new itemgroup "Maj_EQ_GW_Commander_Armor"
+
+add levelgroup 0,0,"All"
+add rootgroup "8723b3cc-2e81-4b53-8a42-4e4d3da553f4",""
+add namegroup "Maj_EQ_GW_Commander_Armor","",""
+
+new itemgroup "Maj_EQ_GW_Commander_Helm"
+
+add levelgroup 0,0,"All"
+add rootgroup "15c921ee-dd83-415b-915b-cc4988c8c8c6",""
+add namegroup "Maj_EQ_GW_Commander_Helm","",""
+
+new itemgroup "Maj_EQ_GW_Heavy_Helm"
+
+add levelgroup 0,0,"All"
+add rootgroup "cd3c1f3c-c62c-4b2a-a071-680d39257b55",""
+add namegroup "Maj_EQ_GW_Heavy_Helm","",""
+
+new itemgroup "Maj_EQ_GW_Heavy_Helm_Hood"
+
+add levelgroup 0,0,"All"
+add rootgroup "5e55449e-6638-4371-ad03-09214da3ad93",""
+add namegroup "Maj_EQ_GW_Heavy_Helm_Hood","",""
+
+new itemgroup "Maj_EQ_GW_Helm"
+
+add levelgroup 0,0,"All"
+add rootgroup "ad5d500a-0e81-4b05-88e1-28eb33758df8",""
+add namegroup "Maj_EQ_GW_Helm","",""
+
+new itemgroup "Maj_EQ_GW_Helm_Hood"
+
+add levelgroup 0,0,"All"
+add rootgroup "7f2e4872-5d5a-46e2-a7bd-64b74e9128cc",""
+add namegroup "Maj_EQ_GW_Helm_Hood","",""
+
+new itemgroup "Maj_EQ_GW_Hood"
+
+add levelgroup 0,0,"All"
+add rootgroup "c2fb2a28-0808-4236-899b-35e251912ea7",""
+add namegroup "Maj_EQ_GW_Hood","",""
+
+new itemgroup "Maj_EQ_GW_Mage_Armor"
+
+add levelgroup 0,0,"All"
+add rootgroup "d376a305-c3de-4a65-afd0-50f330476d91",""
+add namegroup "Maj_EQ_GW_Mage_Armor","",""
+
+new itemgroup "Maj_EQ_GW_Rogue_Armor"
+
+add levelgroup 0,0,"All"
+add rootgroup "40f65e5e-8df3-4b12-9ba7-596882cf93a0",""
+add namegroup "Maj_EQ_GW_Rogue_Armor","",""
+
+new itemgroup "Maj_EQ_GW_Warrior_Armor"
+
+add levelgroup 0,0,"All"
+add rootgroup "17b83415-ab21-4752-bb6b-bdeb269da482",""
+add namegroup "Maj_EQ_GW_Warrior_Armor","",""
+
+new itemgroup "Maj_EQ_Karlas_Pointed_Hat"
+
+add levelgroup 0,0,"All"
+add rootgroup "929ea403-a27a-4366-9364-b340205df628",""
+add namegroup "Maj_EQ_Karlas_Pointed_Hat","",""
+
+new itemgroup "Maj_EQ_Mornes_Armor"
+
+add levelgroup 0,0,"All"
+add rootgroup "df16d4ad-432b-4b65-ac57-5d64e1dd7bee",""
+add namegroup "Maj_EQ_Mornes_Armor","",""
+
+new itemgroup "Maj_EQ_Mornes_Helmet"
+
+add levelgroup 0,0,"All"
+add rootgroup "1a86b9b4-748d-4313-9ce6-d66a579c11bc",""
+add namegroup "Maj_EQ_Mornes_Helmet","",""
+
+new itemgroup "Maj_EQ_Artificer_Accessory_ArmorShell"
+
+add levelgroup 0,0,"All"
+add rootgroup "a15ef630-a393-47b2-b592-77e12bb479d5",""
+add namegroup "Maj_EQ_Artificer_Accessory_ArmorShell","",""
+
+new itemgroup "Maj_EQ_Artificer_Accessory_Goggles"
+
+add levelgroup 0,0,"All"
+add rootgroup "2443876e-e9ae-4009-8d4f-24d7bd903018",""
+add namegroup "Maj_EQ_Artificer_Accessory_Goggles","",""
+
+new itemgroup "Maj_EQ_Artificer_Clothes"
+
+add levelgroup 0,0,"All"
+add rootgroup "27a67953-0455-405e-b8fd-74ab8b4cf7f7",""
+add namegroup "Maj_EQ_Artificer_Clothes","",""
+
+new itemgroup "Maj_EQ_Fur_Cloak"
+
+add levelgroup 0,0,"All"
+add rootgroup "ce3395ec-4866-4028-a6e6-04117290598e",""
+add namegroup "Maj_EQ_Fur_Cloak","",""
+
+new itemgroup "Maj_EQ_Gheist_Armor"
+
+add levelgroup 0,0,"All"
+add rootgroup "3e52f34d-6f6f-4b29-8ead-1c6a83f15f76",""
+add namegroup "Maj_EQ_Gheist_Armor","",""
+
+new itemgroup "Maj_EQ_Gheist_Cloak"
+
+add levelgroup 0,0,"All"
+add rootgroup "81e79729-8e30-4717-8c5a-1c8ce6699bc9",""
+add namegroup "Maj_EQ_Gheist_Cloak","",""
+
+new itemgroup "Maj_EQ_Gheist_Helmet"
+
+add levelgroup 0,0,"All"
+add rootgroup "b0c71812-f7cf-424f-bb68-fdba4d268e66",""
+add namegroup "Maj_EQ_Gheist_Helmet","",""
+
+new itemgroup "Maj_EQ_Headscarf"
+
+add levelgroup 0,0,"All"
+add rootgroup "183ff018-71bb-49ad-8067-88faeebf0ec3",""
+add namegroup "Maj_EQ_Headscarf","",""
+
+new itemgroup "Maj_EQ_Headscarf_Bejewelled "
+
+add levelgroup 0,0,"All"
+add rootgroup "5b39be68-0afd-4616-b8a5-37e2913a2685",""
+add namegroup "Maj_EQ_Headscarf_Bejewelled ","",""
+
+new itemgroup "Maj_EQ_Headscarf_Masked"
+
+add levelgroup 0,0,"All"
+add rootgroup "a1662796-ba7a-494e-b4a4-bf4a99ab4c38",""
+add namegroup "Maj_EQ_Headscarf_Masked","",""
+
+new itemgroup "Maj_EQ_Headscarf_Masked_Bejewelled"
+
+add levelgroup 0,0,"All"
+add rootgroup "0050b755-e879-49f1-9c7f-41b1cbc7d6ee",""
+add namegroup "Maj_EQ_Headscarf_Masked_Bejewelled","",""
+
+new itemgroup "Maj_EQ_IC_Armor"
+
+add levelgroup 0,0,"All"
+add rootgroup "e6a6bf59-53c8-4f7f-9ca5-645e2993555f",""
+add namegroup "Maj_EQ_IC_Armor","",""
+
+new itemgroup "Maj_EQ_IC_Helmet_Down"
+
+add levelgroup 0,0,"All"
+add rootgroup "40f3ebf2-77d8-4428-b642-32b0989bb3b4",""
+add namegroup "Maj_EQ_IC_Helmet_Down","",""
+
+new itemgroup "Maj_EQ_IC_Helmet_Up"
+
+add levelgroup 0,0,"All"
+add rootgroup "b1eb9572-c763-4b3f-a7b8-4826517b85da",""
+add namegroup "Maj_EQ_IC_Helmet_Up","",""
+
+new itemgroup "Maj_EQ_Left_Eyepatch"
+
+add levelgroup 0,0,"All"
+add rootgroup "9d9163d4-cb76-4d1c-ae2a-eecd93306d77",""
+add namegroup "Maj_EQ_Left_Eyepatch","",""
+
+new itemgroup "Maj_EQ_Pumpkin_Head"
+
+add levelgroup 0,0,"All"
+add rootgroup "c7208346-020a-4e2f-b3bf-e508dc8e0259",""
+add namegroup "Maj_EQ_Pumpkin_Head","",""
+
+new itemgroup "Maj_EQ_Sir_Fez"
+
+add levelgroup 0,0,"All"
+add rootgroup "a442cfa0-a142-4320-8eb1-71905dad7adf",""
+add namegroup "Maj_EQ_Sir_Fez","",""
+
+new itemgroup "Maj_EQ_Sir_Lora_Helmet"
+
+add levelgroup 0,0,"All"
+add rootgroup "4ae5af68-1f18-417a-9c4d-396e17425835",""
+add namegroup "Maj_EQ_Sir_Lora_Helmet","",""
+
+new itemgroup "Maj_EQ_Tail_Flame"
+
+add levelgroup 0,0,"All"
+add rootgroup "a98e965a-4099-4f0b-b302-80d8f139f03f",""
+add namegroup "Maj_EQ_Tail_Flame","",""
+
+new itemgroup "Maj_EQ_Turban"
+
+add levelgroup 0,0,"All"
+add rootgroup "363f76f6-3256-460c-b89f-1a0c80e81b38",""
+add namegroup "Maj_EQ_Turban","",""
+
+new itemgroup "Maj_EQ_WindUpToy_Hat"
+
+add levelgroup 0,0,"All"
+add rootgroup "6696a95b-a7e3-4e27-967f-98dae23dbaf4",""
+add namegroup "Maj_EQ_WindUpToy_Hat","",""
+
+new itemgroup "Maj_EQ_WindUpToy_Hood"
+
+add levelgroup 0,0,"All"
+add rootgroup "94f6bd4a-636a-424e-bfdc-497e01998217",""
+add namegroup "Maj_EQ_WindUpToy_Hood","",""
+
+new itemgroup "Maj_EQ_Zandalor_Glasses"
+
+add levelgroup 0,0,"All"
+add rootgroup "c8bb2899-c2e9-46f8-aa9e-09476140fb6d",""
+add namegroup "Maj_EQ_Zandalor_Glasses","",""
+
+new itemgroup "Maj_EQ_DeathKnight_Arthas_Cloak"
+
+add levelgroup 0,0,"All"
+add rootgroup "43c75927-b080-40e4-abb3-24d5d68266f0",""
+add namegroup "Maj_EQ_DeathKnight_Arthas_Cloak","",""
+
+new itemgroup "Maj_EQ_DeathKnight_Arthas_Loincloth"
+
+add levelgroup 0,0,"All"
+add rootgroup "7720d9de-38b4-4db6-800c-0ea9d937eab4",""
+add namegroup "Maj_EQ_DeathKnight_Arthas_Loincloth","",""
+
+new itemgroup "Maj_EQ_Death_Knight_Arthas_Armor"
+
+add levelgroup 0,0,"All"
+add rootgroup "ba2e7e6b-b293-463f-9b4c-002a143b61cf",""
+add namegroup "Maj_EQ_Death_Knight_Arthas_Armor","",""
+
+new itemgroup "Maj_EQ_LichKing_Crown"
+
+add levelgroup 0,0,"All"
+add rootgroup "b46c69ce-9b03-43dd-beac-98a54bcb5f2e",""
+add namegroup "Maj_EQ_LichKing_Crown","",""
+
+new itemgroup "Maj_EQ_Prince_Arthas_Armor"
+
+add levelgroup 0,0,"All"
+add rootgroup "169699a2-a7d8-4368-b580-8a701ab4aea7",""
+add namegroup "Maj_EQ_Prince_Arthas_Armor","",""
+
+new itemgroup "Maj_EQ_Prince_Arthas_Cape"
+
+add levelgroup 0,0,"All"
+add rootgroup "042f15f8-0b73-4786-93fc-0d54489f4a1c",""
+add namegroup "Maj_EQ_Prince_Arthas_Cape","",""
+
+new itemgroup "Maj_EQ_Avatar_Aphrodite"
+
+add levelgroup 0,0,"All"
+add rootgroup "8016459d-67f9-4956-80e2-4604fb853194",""
+add namegroup "Maj_EQ_Avatar_Aphrodite","",""
+
+new itemgroup "Maj_EQ_Avatar_Nu_Wa"
+
+add levelgroup 0,0,"All"
+add rootgroup "eaecb535-2cad-4d02-a9b5-a90a960939e9",""
+add namegroup "Maj_EQ_Avatar_Nu_Wa","",""
+
+new itemgroup "Maj_EQ_Avatar_Susanoo"
+
+add levelgroup 0,0,"All"
+add rootgroup "65045c21-a2eb-4127-bf50-92983a3bc636",""
+add namegroup "Maj_EQ_Avatar_Susanoo","",""
+
+new itemgroup "Maj_EQ_Avatar_Ainz_Ooal_Gown"
+
+add levelgroup 0,0,"All"
+add rootgroup "b8635d5c-f1e0-454f-a3af-33c746d5649b",""
+add namegroup "Maj_EQ_Avatar_Ainz_Ooal_Gown","",""
+
+new itemgroup "Maj_EQ_Madness_Armor"
+
+add levelgroup 0,0,"All"
+add rootgroup "7dae3e22-616a-4930-a9dc-a7a62e24440e",""
+add namegroup "Maj_EQ_Madness_Armor","",""
+
+new itemgroup "Maj_EQ_Madness_Helm"
+
+add levelgroup 0,0,"All"
+add rootgroup "74443f40-ce2a-4264-9ca6-82286ee0cea9",""
+add namegroup "Maj_EQ_Madness_Helm","",""
+
+new itemgroup "Maj_EQ_Majoras_Cult_Mask"
+
+add levelgroup 0,0,"All"
+add rootgroup "8193f5a2-532c-49c3-a975-dc16a96e9938",""
+add namegroup "Maj_EQ_Majoras_Cult_Mask","",""
+
+new itemgroup "Maj_EQ_Majoras_Mask"
+
+add levelgroup 0,0,"All"
+add rootgroup "d0863a82-51c0-49c9-ae6f-1286080e95bb",""
+add namegroup "Maj_EQ_Majoras_Mask","",""
+
+new itemgroup "Maj_EQ_Skull_Knight_Armor"
+
+add levelgroup 0,0,"All"
+add rootgroup "4c6f3de6-be4f-42a1-882b-245e454726ae",""
+add namegroup "Maj_EQ_Skull_Knight_Armor","",""
+
+new itemgroup "Maj_EQ_Skull_Knight_Cloak"
+
+add levelgroup 0,0,"All"
+add rootgroup "7092b971-5ecb-4cea-8108-e79769e11c47",""
+add namegroup "Maj_EQ_Skull_Knight_Cloak","",""
+
+new itemgroup "Maj_EQ_Skull_Knight_Helmet"
+
+add levelgroup 0,0,"All"
+add rootgroup "80391c98-bc14-4a5e-9cb2-6402b5ef1300",""
+add namegroup "Maj_EQ_Skull_Knight_Helmet","",""
+
+new itemgroup "Maj_EQ_Skull_Knight_Skirt"
+
+add levelgroup 0,0,"All"
+add rootgroup "443cb896-15d0-4374-af04-cf90e077fcce",""
+add namegroup "Maj_EQ_Skull_Knight_Skirt","",""
+
+new itemgroup "Maj_EQ_Sun_Glasses"
+
+add levelgroup 0,0,"All"
+add rootgroup "f1adfa65-4297-499b-8d0f-a0c8dd20097a",""
+add namegroup "Maj_EQ_Sun_Glasses","",""
+
+new itemgroup "Maj_EQ_Avatar_Kamikirimusi"
+
+add levelgroup 0,0,"All"
+add rootgroup "1464f45c-ff36-46f1-b084-e391d7a1b590",""
+add namegroup "Maj_EQ_Avatar_Kamikirimusi","",""
+
+new itemgroup "Maj_EQ_Avatar_Nightmare_V"
+
+add levelgroup 0,0,"All"
+add rootgroup "f8b78b3e-ca0c-4392-8f63-0e15eb36d9b7",""
+add namegroup "Maj_EQ_Avatar_Nightmare_V","",""
+
+new itemgroup "Maj_EQ_Avatar_Tira"
+
+add levelgroup 0,0,"All"
+add rootgroup "739d9d38-db47-4c34-b375-1e8b2718c3ee",""
+add namegroup "Maj_EQ_Avatar_Tira","",""
+
+new itemgroup "Maj_EQ_Majoras_Bruxo_Garb"
+
+add levelgroup 0,0,"All"
+add rootgroup "bf598382-a7ff-4f6c-b401-c1b7eb962d15",""
+add namegroup "Maj_EQ_Majoras_Bruxo_Garb","",""
+
+new itemgroup "Maj_WPN_Wellows_Pickhammer_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "d465318b-4830-4089-958d-e77452c54979",""
+add namegroup "Maj_WPN_Wellows_Pickhammer_1H","",""
+
+new itemgroup "Maj_WPN_Thunders_Sword_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "dd1b8ba8-e4d1-4c2a-979d-c570362a736c",""
+add namegroup "Maj_WPN_Thunders_Sword_1H","",""
+
+new itemgroup "Maj_WPN_Thunders_Shield_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "ab098d3a-9ccc-474c-8126-15fdc21419cc",""
+add namegroup "Maj_WPN_Thunders_Shield_1H","",""
+
+new itemgroup "Maj_WPN_The_Sentinus_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "1c810543-1e4b-4f93-9aee-e3e86ecc21f0",""
+add namegroup "Maj_WPN_The_Sentinus_2H","",""
+
+new itemgroup "Maj_WPN_The_Harbinger_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "97742917-5916-4f54-a80b-bcb698e14fe9",""
+add namegroup "Maj_WPN_The_Harbinger_1H","",""
+
+new itemgroup "Maj_WPN_The_Bereaver_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "fe6825b5-2859-4527-9fd2-92eae3206d70",""
+add namegroup "Maj_WPN_The_Bereaver_2H","",""
+
+new itemgroup "Maj_WPN_The_Avenger_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "07e1d7d4-f5f8-4ab4-aef8-c3c4008e8b47",""
+add namegroup "Maj_WPN_The_Avenger_1H","",""
+
+new itemgroup "Maj_WPN_Scythes_War_Scythe_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "6695fb89-8df6-49e8-9383-0f78e0258adf",""
+add namegroup "Maj_WPN_Scythes_War_Scythe_2H","",""
+
+new itemgroup "Maj_WPN_Ronok_The_Axe_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "c8c41b3f-a01e-4b01-8af6-36a05a1d5718",""
+add namegroup "Maj_WPN_Ronok_The_Axe_1H","",""
+
+new itemgroup "Maj_WPN_Murren_Greathammer_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "33d412e7-08ea-43dc-9d6f-ec16e306eeb3",""
+add namegroup "Maj_WPN_Murren_Greathammer_2H","",""
+
+new itemgroup "Maj_WPN_Murren_Greataxe_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "43dcf02a-f75a-49c4-becc-d2765982d754",""
+add namegroup "Maj_WPN_Murren_Greataxe_2H","",""
+
+new itemgroup "Maj_WPN_Katana_Hiryu_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "80f880f2-8e36-4d22-8cba-13d2b9b9b3b1",""
+add namegroup "Maj_WPN_Katana_Hiryu_1H","",""
+
+new itemgroup "Maj_WPN_Solus_Greatsword_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "4b680379-896d-49b4-b8d7-e6b5f0cc3928",""
+add namegroup "Maj_WPN_Solus_Greatsword_2H","",""
+
+new itemgroup "Maj_WPN_The_Harvester_PA_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "5ac62b5c-bb33-4f03-bae4-1c054e4b9314",""
+add namegroup "Maj_WPN_The_Harvester_PA_2H","",""
+
+new itemgroup "Maj_EQ_Avatar_Albedo"
+
+add levelgroup 0,0,"All"
+add rootgroup "c060c3d4-91c1-431e-b194-9e71bc84975c",""
+add namegroup "Maj_EQ_Avatar_Albedo","",""
+
+new itemgroup "Maj_WPN_Ginnungagap_Wand_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "efad8c7a-abaf-420f-8f86-36cae7f08d7a",""
+add namegroup "Maj_WPN_Ginnungagap_Wand_1H","",""
+
+new itemgroup "Maj_EQ_Albedo_Wings"
+
+add levelgroup 0,0,"All"
+add rootgroup "7bdafee0-fda7-4baa-8306-2f5b2ca5a3f9",""
+add namegroup "Wings","",""
+
+new itemgroup "Maj_EQ_Captains_Hat"
+
+add levelgroup 0,0,"All"
+add rootgroup "6ab12ae8-fb1a-45b8-aafc-a027c7549a16",""
+add namegroup "Maj_EQ_Captains_Hat","",""
+
+new itemgroup "Maj_EQ_Avatar_Sephiroth"
+
+add levelgroup 0,0,"All"
+add rootgroup "36222c59-cef5-43b8-aa73-64977b8e8b25",""
+add namegroup "Maj_EQ_Avatar_Sephiroth","",""
+
+new itemgroup "Maj_WPN_Masamune_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "373fa877-95b7-4455-9a7f-17f81ef55b14",""
+add namegroup "Maj_WPN_Masamune_2H","",""
+
+new itemgroup "Maj_EQ_Avatar_CC_Zack_Fair_Young"
+
+add levelgroup 0,0,"All"
+add rootgroup "8086fb40-cf6a-46af-aaea-abeb90b94fb6",""
+add namegroup "Maj_EQ_Avatar_CC_Zack_Fair_Young","",""
+
+new itemgroup "Maj_EQ_Avatar_CC_Zack_Fair_Old"
+
+add levelgroup 0,0,"All"
+add rootgroup "5194dbf5-dcc7-4a42-a64c-30e05b280c45",""
+add namegroup "Maj_EQ_Avatar_CC_Zack_Fair_Old","",""
+
+new itemgroup "Maj_EQ_CC_Buster_Sword"
+
+add levelgroup 0,0,"All"
+add rootgroup "d787ea5f-6f4f-4fe6-98ba-06c1d047da84",""
+add namegroup "Maj_EQ_CC_Buster_Sword","",""
+
+new itemgroup "Maj_WPN_CC_SOLDIER_Sword_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "f7f8dba0-a866-46cc-abc5-89cac1450e67",""
+add namegroup "Maj_WPN_CC_SOLDIER_Sword_2H","",""
+
+new itemgroup "Maj_WPN_CC_Buster_Sword_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "aadc5b33-0010-44ed-b1eb-9b4dfde0f07a",""
+add namegroup "Maj_WPN_CC_Buster_Sword_2H","",""
+
+new itemgroup "Maj_WPN_CC_Genesis_Rapier_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "63014972-567c-457c-98da-0fa74bd3bbfa",""
+add namegroup "Maj_WPN_CC_Genesis_Rapier_1H","",""
+
+new itemgroup "Maj_EQ_Avatar_DG3_Zero"
+
+add levelgroup 0,0,"All"
+add rootgroup "cb4d0e96-3377-4235-8d4f-80966d3c65ee",""
+add namegroup "Maj_EQ_Avatar_DG3_Zero","",""
+
+new itemgroup "Maj_WPN_DG3_Zero_Sword_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "4037ec43-3eb8-4eac-af12-64909e07de65",""
+add namegroup "Maj_WPN_DG3_Zero_Sword_1H","",""
+
+new itemgroup "Maj_EQ_Avatar_DNT_Tidus_Ace_Striker"
+
+add levelgroup 0,0,"All"
+add rootgroup "5d480c59-3464-4157-9b5a-b3c1e75eb155",""
+add namegroup "Maj_EQ_Avatar_DNT_Tidus_Ace_Striker","",""
+
+new itemgroup "Maj_WPN_DNT_Long_Sword_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "e2fd4dc5-c6dc-4717-8f09-56e8ebeeec15",""
+add namegroup "Maj_WPN_DNT_Long_Sword_1H","",""
+
+new itemgroup "Maj_WPN_DNT_Arc_Sword_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "0148d295-4f52-4c75-94cc-b3c289762835",""
+add namegroup "Maj_WPN_DNT_Arc_Sword_1H","",""
+
+new itemgroup "Maj_WPN_DNT_Caladbolg_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "23525fd9-cc4e-48a6-9612-2fea3b23886c",""
+add namegroup "Maj_WPN_DNT_Caladbolg_1H","",""
+
+new itemgroup "Maj_WPN_DNT_Force_Saber_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "0150aa23-9536-413c-9583-a79c2c335429",""
+add namegroup "Maj_WPN_DNT_Force_Saber_1H","",""
+
+new itemgroup "Maj_WPN_DNT_BrotherHood_1H"
+
+add levelgroup 0,0,"All"
+add rootgroup "9d7d061e-650b-4b1e-bc18-e20bd1fc68f8",""
+add namegroup "Maj_WPN_DNT_BrotherHood_1H","",""
+
+new itemgroup "Maj_WPN_DS3_Moonlight_Greatsword_2H"
+
+add levelgroup 0,0,"All"
+add rootgroup "cdf9cc44-c459-4e42-8550-b9e47e3c7d90",""
+add namegroup "Maj_WPN_DS3_Moonlight_Greatsword_2H","",""
+
+new itemgroup "Maj_EQ_ARM_Vindictus_Dark_Knight_Armor_A"
+
+add levelgroup 0,0,"All"
+add rootgroup "ec1e5463-6e98-4672-bf6b-5021d82b648f",""
+add namegroup "Maj_EQ_ARM_Vindictus_Dark_Knight_Armor_A","",""
+
+new itemgroup "Maj_EQ_ARM_Vindictus_Dark_Knight_Armor_B"
+
+add levelgroup 0,0,"All"
+add rootgroup "e2f31c5e-005d-4b9b-85ff-f0615a8c3339",""
+add namegroup "Maj_EQ_ARM_Vindictus_Dark_Knight_Armor_B","",""
+
+new itemgroup "Maj_EQ_Plume_Samurai_Armor_A"
+
+add levelgroup 0,0,"All"
+add rootgroup "dcabf13a-b056-4bbc-97e0-f6c4e6c406bf",""
+add namegroup "Maj_EQ_Plume_Samurai_Armor_A","",""
+
+new itemgroup "Maj_EQ_Plume_Samurai_Armor_B"
+
+add levelgroup 0,0,"All"
+add rootgroup "62d253b2-c098-48d0-8064-4d9cd3262491",""
+add namegroup "Maj_EQ_Plume_Samurai_Armor_B","",""
+
+new itemgroup "Maj_EQ_Plume_Samurai_Helmet_A"
+
+add levelgroup 0,0,"All"
+add rootgroup "f3222096-b99f-48ef-a539-d277f6afc7cf",""
+add namegroup "Maj_EQ_Plume_Samurai_Helmet_A","",""
+
+new itemgroup "Maj_EQ_Plume_Samurai_Helmet_B"
+
+add levelgroup 0,0,"All"
+add rootgroup "e36b8b3f-44b5-4123-8253-25e3878016eb",""
+add namegroup "Maj_EQ_Plume_Samurai_Helmet_B","",""
+
+new itemgroup "Maj_EQ_ARM_Bless_Cleric_Armor"
+
+add levelgroup 0,0,"All"
+add rootgroup "f334b23f-1ff7-4c10-bcb1-8988867f0f9d",""
+add namegroup "Maj_EQ_ARM_Bless_Cleric_Armor","",""
+
+new itemgroup "Maj_EQ_ARM_Bless_Knight_Armor"
+
+add levelgroup 0,0,"All"
+add rootgroup "4522e868-3d3d-4b38-96e5-2ea13b28d573",""
+add namegroup "Maj_EQ_ARM_Bless_Knight_Armor","",""
+
+new itemgroup "Maj_WPN_1H_Mace_Bless_Cleric_Mace"
+
+add levelgroup 0,0,"All"
+add rootgroup "21004491-d754-4524-b66c-79922b6e3031",""
+add namegroup "Maj_WPN_1H_Mace_Bless_Cleric_Mace","",""
+
+new itemgroup "Maj_WPN_2H_Axe_Bless_Knight_Axe"
+
+add levelgroup 0,0,"All"
+add rootgroup "eb41bd4f-4d4b-44a0-a8ab-2ee814d481d9",""
+add namegroup "Maj_WPN_2H_Axe_Bless_Knight_Axe","",""

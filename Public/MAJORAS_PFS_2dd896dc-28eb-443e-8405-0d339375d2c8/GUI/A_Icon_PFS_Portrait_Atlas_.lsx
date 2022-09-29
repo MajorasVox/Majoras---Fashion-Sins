@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="6" build="0" />
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="40K_Necron_Warrior_Portrait" type="22" />
+                    <attribute id="U1" value="0.175903" type="6" />
+                    <attribute id="U2" value="0.19519" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="Berserk_Skull_Knight_Portrait" type="22" />
+                    <attribute id="U1" value="0.0977783" type="6" />
+                    <attribute id="U2" value="0.117065" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="DOS2_Cowizard_Portrait" type="22" />
+                    <attribute id="U1" value="0.390747" type="6" />
+                    <attribute id="U2" value="0.410034" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="DOS2_Cowizartaurus_Portrait" type="22" />
+                    <attribute id="U1" value="0.410278" type="6" />
+                    <attribute id="U2" value="0.429565" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="Divinity_Damian_Portrait" type="22" />
+                    <attribute id="U1" value="0.293091" type="6" />
+                    <attribute id="U2" value="0.312378" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="Fable_JackOfBlades_Portrait" type="22" />
+                    <attribute id="U1" value="0.332153" type="6" />
+                    <attribute id="U2" value="0.35144" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="FinalFantasy_CloudStrife_Portrait" type="22" />
+                    <attribute id="U1" value="0.195435" type="6" />
+                    <attribute id="U2" value="0.214722" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="FinalFantasy_GodKefka_Portrait" type="22" />
+                    <attribute id="U1" value="0.312622" type="6" />
+                    <attribute id="U2" value="0.331909" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="FinalFantasy_Ifrit_Portrait" type="22" />
+                    <attribute id="U1" value="0.234497" type="6" />
+                    <attribute id="U2" value="0.253784" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="FinalFantasy_Kefka_Portrait" type="22" />
+                    <attribute id="U1" value="0.214966" type="6" />
+                    <attribute id="U2" value="0.234253" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="FinalFantasy_Noctis_Portrait" type="22" />
+                    <attribute id="U1" value="0.136841" type="6" />
+                    <attribute id="U2" value="0.156128" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="FinalFantasy_Rikku_Portrait" type="22" />
+                    <attribute id="U1" value="0.254028" type="6" />
+                    <attribute id="U2" value="0.273315" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="FinalFantasy_TifaLockhart_Portrait" type="22" />
+                    <attribute id="U1" value="0.0196533" type="6" />
+                    <attribute id="U2" value="0.0389404" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="HalfLife_Headcrab_Portrait" type="22" />
+                    <attribute id="U1" value="0.42981" type="6" />
+                    <attribute id="U2" value="0.449097" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="Overlord_Ainz_Ooal_Gown_Portrait" type="22" />
+                    <attribute id="U1" value="0.156372" type="6" />
+                    <attribute id="U2" value="0.175659" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="SMITE_Aphrodite_Portrait" type="22" />
+                    <attribute id="U1" value="0.0391846" type="6" />
+                    <attribute id="U2" value="0.0584717" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="SMITE_Nu_Wa_Portrait" type="22" />
+                    <attribute id="U1" value="0.0587158" type="6" />
+                    <attribute id="U2" value="0.0780029" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="SMITE_Susanoo_Portrait" type="22" />
+                    <attribute id="U1" value="0.527466" type="6" />
+                    <attribute id="U2" value="0.546753" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="Soulcalibur_Kamikirimusi_Portrait" type="22" />
+                    <attribute id="U1" value="0.351685" type="6" />
+                    <attribute id="U2" value="0.370972" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="Soulcalibur_Nightmare_V4_Portrait" type="22" />
+                    <attribute id="U1" value="0.11731" type="6" />
+                    <attribute id="U2" value="0.136597" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="Soulcalibur_Nightmare_V5_Portrait" type="22" />
+                    <attribute id="U1" value="0.0782471" type="6" />
+                    <attribute id="U2" value="0.0975342" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="Soulcalibur_Tira_Portrait" type="22" />
+                    <attribute id="U1" value="0.00012207" type="6" />
+                    <attribute id="U2" value="0.0194092" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="StarOcean_DiasFlac_Portrait" type="22" />
+                    <attribute id="U1" value="0.27356" type="6" />
+                    <attribute id="U2" value="0.292847" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="WoW_DeathKnightArthas_Portrait" type="22" />
+                    <attribute id="U1" value="0.449341" type="6" />
+                    <attribute id="U2" value="0.468628" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="WoW_FallenArthas_Portrait" type="22" />
+                    <attribute id="U1" value="0.468872" type="6" />
+                    <attribute id="U2" value="0.488159" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="WoW_KingArthas_Portrait" type="22" />
+                    <attribute id="U1" value="0.488403" type="6" />
+                    <attribute id="U2" value="0.50769" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="WoW_LichKing_Portrait" type="22" />
+                    <attribute id="U1" value="0.371216" type="6" />
+                    <attribute id="U2" value="0.390503" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="WoW_PrinceArthas_Portrait" type="22" />
+                    <attribute id="U1" value="0.507935" type="6" />
+                    <attribute id="U2" value="0.527222" type="6" />
+                    <attribute id="V1" value="0.00012207" type="6" />
+                    <attribute id="V2" value="0.024292" type="6" />
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" value="100" type="4" />
+                    <attribute id="Width" value="80" type="4" />
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" value="Assets/_Icons/A_Icon_PFS_Portrait_Atlas_.dds" type="20" />
+                    <attribute id="UUID" value="866cb68b-1492-47f2-8a6c-b5e947e7ecb0" type="22" />
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" value="4096" type="4" />
+                    <attribute id="Width" value="4096" type="4" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" />
+	<version major="3" minor="6" revision="1" build="0" />
+	<region id="MetaData">
+		<node id="root">
+			<attribute id="Module" value="2dd896dc-28eb-443e-8405-0d339375d2c8" type="23" />
+			<attribute id="Name" value="Majoras - Project: Fashion Sins" type="23" />
+			<attribute id="Type" value="Add-on" type="23" />
+			<attribute id="UUID" value="2dba39ab-6df3-4b3c-8a91-2cfb7af4a7a5" type="23" />
+		</node>
+	</region>
+</save>
