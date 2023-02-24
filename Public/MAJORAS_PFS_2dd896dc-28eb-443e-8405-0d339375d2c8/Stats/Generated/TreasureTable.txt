@@ -253,6 +253,8 @@ new subtable "1,1"
 object category "I_Maj_WPN_1H_Mace_Bless_Cleric_Mace",1,1,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_Maj_WPN_2H_Axe_Bless_Knight_Axe",1,1,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Maj_EQ_ARM_TheWitcher_Yennefer_Visage_A",1,1,0,0,0,0,0,0
 
 new treasuretable "Majoras_PFS_DOS2Trader"
 new subtable "1,1"
