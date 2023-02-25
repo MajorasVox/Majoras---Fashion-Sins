@@ -898,8 +898,8 @@ add levelgroup 0,0,"All"
 add rootgroup "eb41bd4f-4d4b-44a0-a8ab-2ee814d481d9",""
 add namegroup "Maj_WPN_2H_Axe_Bless_Knight_Axe","",""
 
-new itemgroup "Maj_EQ_ARM_TheWitcher_Yennefer_Visage_A"
+new itemgroup "Maj_EQ_ARM_Witcher_Yennefer_Visage"
 
 add levelgroup 0,0,"All"
 add rootgroup "7d19bcf3-dcd6-470c-91cc-081bada9345d",""
-add namegroup "Maj_EQ_ARM_TheWitcher_Yennefer_Visage_A","",""
+add namegroup "Maj_EQ_ARM_Witcher_Yennefer_Visage","",""
