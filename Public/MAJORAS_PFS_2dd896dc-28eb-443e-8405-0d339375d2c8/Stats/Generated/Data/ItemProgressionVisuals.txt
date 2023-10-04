@@ -903,3 +903,9 @@ new itemgroup "Maj_EQ_ARM_Witcher_Yennefer_Visage"
 add levelgroup 0,0,"All"
 add rootgroup "7d19bcf3-dcd6-470c-91cc-081bada9345d",""
 add namegroup "Maj_EQ_ARM_Witcher_Yennefer_Visage","",""
+
+new itemgroup "Maj_EQ_ARM_Witcher_Sheala_Visage"
+
+add levelgroup 0,0,"All"
+add rootgroup "d244c56c-2ae7-46fb-86b4-bb1cff1b6e9c",""
+add namegroup "Maj_EQ_ARM_Witcher_Sheala_Visage","",""
